@@ -1,0 +1,15 @@
+{
+    "name": "cuculab/laravelremotemodel",
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0",
+        "laravel/framework": "5.1.*|5.2.*",
+        "illuminate/support": "~5.0.14|5.1.x|5.2.x",
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CucuLab\\Remote\\": "src/"
+        }
+    }
+}
